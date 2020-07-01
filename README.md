@@ -1,6 +1,6 @@
 # TwiPi-follows-Sparki
 
-Part 1:
+Part 1: Publishing an Image
 
 <p>
 <img src="https://github.com/KedarMore/TwiPi-follows-Sparki/blob/master/README/1.gif">
