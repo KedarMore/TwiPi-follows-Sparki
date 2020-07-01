@@ -2,7 +2,9 @@
 
 Part 1:
 
-[![Watch the video](https://github.com/KedarMore/TwiPi-follows-Sparki/blob/master/README/1.mp4)
+<p>
+<img src="https://github.com/KedarMore/TwiPi-follows-Sparki/blob/master/README/1.mp4">
+</p>
 
 1. Create catkin workspaces on both machines.
 
