@@ -1,5 +1,9 @@
 # TwiPi-follows-Sparki
 
+Part 1:
+
+
+
 1. Create catkin workspaces on both machines.
 
     We will call them pub and sub
