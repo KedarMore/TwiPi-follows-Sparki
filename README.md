@@ -3,7 +3,7 @@
 Part 1:
 
 <p>
-<img src="https://github.com/KedarMore/TwiPi-follows-Sparki/blob/master/README/1.mp4">
+<img src="https://github.com/KedarMore/TwiPi-follows-Sparki/blob/master/README/1.gif">
 </p>
 
 1. Create catkin workspaces on both machines.
